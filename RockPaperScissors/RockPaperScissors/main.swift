@@ -1,3 +1,8 @@
+//  main.swift
+//  RockPaperScissors
+//
+//  Created by goat,kokkilE on 2022/12/26.
+//
 var winner: String = ""
 var currentGame: CurrentGame = .rockPaperScissors
 

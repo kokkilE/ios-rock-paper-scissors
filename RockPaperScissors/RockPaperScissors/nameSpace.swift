@@ -1,8 +1,7 @@
-//
 //  nameSpace.swift
 //  RockPaperScissors
 //
-//  Created by 송종환 on 2022/12/29.
+//  Created by goat,kokkilE on 2022/12/26.
 //
 enum GameResult: String {
     case computerWin = "컴퓨터"
